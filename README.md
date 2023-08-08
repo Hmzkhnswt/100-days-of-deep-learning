@@ -9,5 +9,7 @@ Forward Propagation ,
 Back Propagation,
 MLP Memoization,
 Gradient Descent and Its types,
-
+CNN, 
+CNN PADING AND STRIDES,
+CNN ARCHITECTURES
 
