@@ -11,5 +11,6 @@ MLP Memoization,
 Gradient Descent and Its types,
 CNN, 
 CNN PADING AND STRIDES,
+Pooling layers,
 CNN ARCHITECTURES
 
